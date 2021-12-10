@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MyMusic" parent="Theme.AppCompat.Light" />
+</resources>
